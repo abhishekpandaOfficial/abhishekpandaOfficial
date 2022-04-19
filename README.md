@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK PANDA</h1>
-<h3 align="center">👀 Experienced in Software Development, Software Architecture, Cloud Technology, ML Project, Data Science.</h3>
+<h3 align="center">👀 Experienced in Software Development, Software Architecture, Cloud Technology, Machine Learning, Data Science, Figma</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpandaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpandaofficial" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekpandaofficial" alt="abhishekpandaofficial" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abhishe94486212" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe94486212?logo=twitter&style=for-the-badge" alt="abhishe94486212" /></a> </p>
 
