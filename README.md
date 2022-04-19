@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm ABHISHEK PANDA</h1> 
 
-<h3 align="center">👀 Experienced in Software Development, Software Architecture, Cloud Technology, Machine Learning, Data Science, Figma</h3>
+<h3 align="center"> 👀 Full Stack Software Development, Software Design, Cloud Technology, Machine Learning, Data Science, UI/UX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpandaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpandaofficial" /> </p>
 
