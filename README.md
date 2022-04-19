@@ -37,6 +37,9 @@
 
                         You have stayed on my page for:
 
-             https://tomchen.github.io/animated-svg-clock/clock.svg
+            <p align="center">
+<a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
+</p>
+
 
 
