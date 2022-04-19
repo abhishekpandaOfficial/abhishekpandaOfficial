@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, Azure, Data Science.**
 
-- 📝 I regularly write articles on [Tech SUtta Bar ] (http://techsuttabar.com/)
+- 📝 I regularly write articles/BlogPosts on [Tech Sutta Bar ] (http://techsuttabar.com/)
 
-- 💬 Ask me about **.NET , Angular, Azure , Web API, SQL , DevOps** 
+- 💬 Ask me about **.NET , Angular, Azure , Web API, SQL , DevOps, ML, DS, MEAN Stack ** 
 
 - 📫 How to reach me **Official.abhishekpanda@gmail.com**
 
