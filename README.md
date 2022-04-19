@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/abhishe94486212" target="blank"></a> </p>
 
-- 🔭 I’m currently working on **MORNING-AI** 
+- 🔭 I’m currently working on ** [ MORNING-AI ]** (https://morning-ai.com/)
 
 - 🌱 I’m currently learning **Machine Learning, Azure, Data Science.**
 
-- 📝 I regularly write articles on [http://techsuttabar.com/](http://techsuttabar.com/)
+- 📝 I regularly write articles on [Tech SUtta Bar ] (http://techsuttabar.com/)
 
 - 💬 Ask me about **.NET , Angular, Azure , Web API, SQL , DevOps** 
 
