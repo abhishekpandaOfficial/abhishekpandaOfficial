@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm ABHISHEK PANDA</h1> 
+<b><h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm ABHISHEK PANDA</h1> 
 
 <h3 align="center"> 👀 Full Stack Software Development, Software Design, Cloud Technology, Machine Learning, Data Science, UI/UX </h3>
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **.NET , Angular, Azure , Web API, SQL , DevOps, ML, DS, MEAN Stack ** 
 
-- 📫 How to reach me **Official.abhishekpanda@gmail.com**
+- 📫 How to reach me **Official.abhishekpanda@gmail.com** </b>
 
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
