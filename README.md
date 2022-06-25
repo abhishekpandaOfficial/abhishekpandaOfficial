@@ -20,6 +20,19 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishekpandaOfficial&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+.NET         7 hrs 28 mins   ████████████████░░░░░░░░░   64.45 %
+ANGULAR      3 hrs 46 mins   ████████░░░░░░░░░░░░░░░░░   32.60 %
+AZURE        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+TypeScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```
+
+<!--END_SECTION:waka-->
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
