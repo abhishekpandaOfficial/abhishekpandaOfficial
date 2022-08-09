@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on (Own Project) ** [ ASPIRE ]** Under Construction :)<br><br>🌱 I’m currently learning Machine Learning, Azure, Data Science.<br><br>📝 I regularly write articles/BlogPosts on [Tech Sutta Bar ] (http://techsuttabar.com/)<br><br>💬 Ask me about **.NET , Angular, Azure , Web API, SQL , DevOps, ML, DS, MEAN Stack **<br><br>📫 How to reach me Official.abhishekpanda@gmail.com
+🔭 I’m currently working on (Own Project) ** [ ASPIRE ]** Under Construction :)<br><br>🌱 I’m currently learning Machine Learning, Azure, Data Science , Project Managements <br><br>📝 I regularly write articles/BlogPosts on [Tech Sutta Bar ] (http://techsuttabar.com/)<br><br>💬 Ask me about **.NET , Angular, Azure , Web API, SQL , DevOps, ML, DS, MEAN Stack **<br><br>📫 How to reach me Official.abhishekpanda@gmail.com
 <br><br>📝 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
