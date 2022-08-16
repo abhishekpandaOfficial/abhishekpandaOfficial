@@ -37,4 +37,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhishekpandaOfficial&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Techmonk-Abhi&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Techmonk-Abhi&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
