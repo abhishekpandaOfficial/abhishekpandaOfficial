@@ -38,6 +38,4 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Techmonk-Abhi&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Techmonk-Abhi&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a>
+
