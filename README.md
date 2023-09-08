@@ -1,6 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+The+Abhishek's+GitHub+Profile)](https://git.io/typing-svg)
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+The+Abhishek;Git+Hub+World+!)](https://git.io/typing-svg)
-🌱 I’m currently learning Machine Learning, Azure, Data Science , Project Managements <br><br>💬 Ask me about **.NET , Angular, Azure , Web API, SQL , DevOps, ML, DS, MEAN Stack **<br><br>📫 How to reach me Official.abhishekpanda@gmail.com
+
+🌱 Principal Software Architect in Full Stack Developer with Coud and DevOps <br><br>💬 Ask me about **.NET Core ,Microservices, Angular, Azure, AWS, DevOps , Machine Learning, Data Analytics & Data Science & Much More!!!
+**<br><br>📫 How to reach me Official.abhishekpanda@gmail.com
 <br><br>📝 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
