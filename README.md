@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73DE3&width=435&lines=Welcome+to+Abhishek+Panda+Profile+!;Happy+Coding+!+)](https://git.io/typing-svg)
 # 💫 About Me:
  Please Check out my 3D Portfolio : https://abhishekpanda.in/ <br><br>
 🌱 Principal Software Architect in Full Stack Developer with Cloud and DevOps <br><br>💬 Ask me about **.NET Core ,Microservices, Angular, Azure, AWS, DevOps , Machine Learning, Data Analytics & Data Science & Much More!!!
