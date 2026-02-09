@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73DE3&width=435&lines=Welcome+to+Abhishek+Panda+Profile+!;Happy+Coding+!+)](https://git.io/typing-svg)
 # 💫 About Me:
- Please Check out my 3D Portfolio : https://abhishekpanda.in/ <br><br>
+ Please Check out my Portfolio : https://www.abhishekpanda.com/ <br><br>
 🌱 Principal Software Architect in Full Stack Developer with Cloud and DevOps <br><br>💬 Ask me about **.NET Core ,Microservices, Angular, Azure, AWS, DevOps , Machine Learning, Data Analytics & Data Science & Much More!!!
 **<br><br>📫 How to reach me Official.abhishekpanda@gmail.com
 <br><br>📝 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-<br><br>Please check out my Blog on : https://morningmonk.hashnode.dev/
+<br><br>Please check out my Blog on : https://www.stackcraft.io/
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
