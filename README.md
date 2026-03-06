@@ -160,15 +160,15 @@ I am also the author of **Booth Awake while Alive**, available across:
 
 ## GitHub Analytics
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekpandaOfficial&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&icon_color=1d4ed8&text_color=334155&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpandaOfficial&theme=transparent&hide_border=true&ring=0ea5e9&fire=1d4ed8&currStreakLabel=334155" alt="GitHub streak" />
-</div>
+[![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=abhishekpandaOfficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=abhishekpandaOfficial&show_icons=true&theme=default&hide_border=true&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Streak Dark](https://streak-stats.demolab.com?user=abhishekpandaOfficial&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak Light](https://streak-stats.demolab.com?user=abhishekpandaOfficial&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpandaOfficial&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=334155" alt="Top languages" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=abhishekpandaOfficial&theme=flat&no-frame=true&no-bg=true&row=2&column=3&title=Experience,Commits,Repositories,Stars,Followers,MultiLanguage" alt="GitHub trophies" />
-</div>
+[![Top Languages Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpandaOfficial&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpandaOfficial&layout=compact&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Trophies Dark](https://github-profile-trophy.vercel.app/?username=abhishekpandaOfficial&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&title=Experience,Commits,Repositories,Stars,Followers,MultiLanguage#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies Light](https://github-profile-trophy.vercel.app/?username=abhishekpandaOfficial&theme=flat&no-frame=true&no-bg=true&row=2&column=3&title=Experience,Commits,Repositories,Stars,Followers,MultiLanguage#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Current Focus
 
