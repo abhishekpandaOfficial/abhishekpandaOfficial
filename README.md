@@ -136,54 +136,122 @@ I am also the author of **Booth Awake while Alive**, available across:
 
 ## Tech Stack
 
-### Languages & Frameworks
+Built from current CVs across architecture, AI systems, cloud platforms, and production engineering.
+
+### AI, LLM & Agentic Systems
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-111827?style=for-the-badge)
+![LangFlow](https://img.shields.io/badge/LangFlow-2563EB?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Advanced%20Pipelines-0EA5E9?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Orchestration-16A34A?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-Structured%20Workflows-7C3AED?style=for-the-badge)
+
+### Vector Search, Retrieval & NLP
+
+![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0F172A?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C4B3?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-1D4ED8?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-0F766E?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-At%20Scale-111827?style=for-the-badge)
+![Semantic Retrieval](https://img.shields.io/badge/Semantic%20Retrieval-Hybrid%20Search-0284C7?style=for-the-badge)
+
+### ML, Deep Learning & MLOps
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4899?style=for-the-badge)
+![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge)
+![Triton](https://img.shields.io/badge/Triton%20Inference-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![TorchServe](https://img.shields.io/badge/TorchServe-EE4C2C?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Backend, APIs & Distributed Systems
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-7C3AED?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-0EA5E9?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-2563EB?style=for-the-badge)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-Systems-16A34A?style=for-the-badge)
 
-### Cloud, Data & DevOps
+### Cloud, Platform & DevSecOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Azure API Management](https://img.shields.io/badge/APIM-Azure%20API%20Management-0EA5E9?style=for-the-badge)
+![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Event Grid](https://img.shields.io/badge/Event%20Grid-0284C7?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-111827?style=for-the-badge&logo=ansible&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Data, Security & Frontend
+
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-4A90E2?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20Databases-Production%20Ready-7C3AED?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-3B82F6?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-2563EB?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### AI, ML & Tooling
+### Architecture Focus
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111827)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+```text
+Microservices | Event-Driven Architecture | DDD | Saga | Outbox | RAG | Multi-Agent Workflows
+High Availability | Distributed Resilience | API Governance | DevSecOps | Cloud Migration | Observability
+Performance Optimization | Secure SDLC | MLOps | Semantic Retrieval | Autonomous AI Orchestration
+```
 
-## GitHub Analytics
+## Developer Snapshot
 
-[![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=abhishekpandaOfficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=abhishekpandaOfficial&show_icons=true&theme=default&hide_border=true&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![GitHub Streak Dark](https://streak-stats.demolab.com?user=abhishekpandaOfficial&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![GitHub Streak Light](https://streak-stats.demolab.com?user=abhishekpandaOfficial&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![Top Languages Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpandaOfficial&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpandaOfficial&layout=compact&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![GitHub Trophies Dark](https://github-profile-trophy.vercel.app/?username=abhishekpandaOfficial&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&title=Experience,Commits,Repositories,Stars,Followers,MultiLanguage#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Trophies Light](https://github-profile-trophy.vercel.app/?username=abhishekpandaOfficial&theme=flat&no-frame=true&no-bg=true&row=2&column=3&title=Experience,Commits,Repositories,Stars,Followers,MultiLanguage#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Views](https://komarev.com/ghpvc/?username=abhishekpandaOfficial&style=for-the-badge&color=0ea5e9)
+![Azure Certified](https://img.shields.io/badge/Azure%20Solutions%20Architect-AZ--305-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-12%2B%20Years-111827?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Lead%20AI%20Architect-2563EB?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20LLMs%20%7C%20RAG-16A34A?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-0F766E?style=for-the-badge)
+![Builder](https://img.shields.io/badge/Builder-AI%20Products%20%7C%20Platforms-7C3AED?style=for-the-badge)
+![Specialization](https://img.shields.io/badge/Specialization-Cloud%20Microservices%20%7C%20MLOps-1D4ED8?style=for-the-badge)
 
 ## Current Focus
 
