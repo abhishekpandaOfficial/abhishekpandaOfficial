@@ -41,6 +41,7 @@ I focus on products that do more than demo well. They reason, automate, organize
       <h3>OpenOwl</h3>
       <p><strong>Autonomous Personal AI Assistant</strong></p>
       <p>An AI-first personal operating layer designed to understand context, assist with workflows, coordinate actions, and act like a dependable digital copilot instead of a single-turn chatbot.</p>
+      <p><a href="https://www.openowl.in/">Visit OpenOwl</a></p>
       <p>
         <img src="https://img.shields.io/badge/Focus-Autonomous%20Agents-0f172a?style=flat-square" />
         <img src="https://img.shields.io/badge/Focus-Workflow%20Automation-1d4ed8?style=flat-square" />
@@ -51,6 +52,7 @@ I focus on products that do more than demo well. They reason, automate, organize
       <h3>Newstack</h3>
       <p><strong>Autonomous AI News Platform</strong></p>
       <p>A news intelligence engine that can aggregate, interpret, cluster, summarize, and surface developments with AI-assisted editorial structure for faster, clearer signal discovery.</p>
+      <p><a href="https://www.newstack.live/">Visit Newstack</a></p>
       <p>
         <img src="https://img.shields.io/badge/Focus-News%20Intelligence-0f172a?style=flat-square" />
         <img src="https://img.shields.io/badge/Focus-Summarization-1d4ed8?style=flat-square" />
@@ -63,6 +65,7 @@ I focus on products that do more than demo well. They reason, automate, organize
       <h3>Scribe</h3>
       <p><strong>CMS Studio</strong></p>
       <p>A structured content management studio built for creators, teams, and product ecosystems that need editorial clarity, scalable publishing workflows, and modern authoring experiences.</p>
+      <p><a href="https://www.scribe.dev/">Visit Scribe</a> <strong>(work in progress)</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Focus-CMS%20Workflows-0f172a?style=flat-square" />
         <img src="https://img.shields.io/badge/Focus-Structured%20Content-1d4ed8?style=flat-square" />
@@ -73,6 +76,7 @@ I focus on products that do more than demo well. They reason, automate, organize
       <h3>Chronyx</h3>
       <p><strong>Personal Finance OS</strong></p>
       <p>A unified personal tracker for to-do lists, finances, EMIs, bills, and subscriptions with both <strong>auto mode</strong> and <strong>manual mode</strong>, designed to bring discipline, visibility, and control to daily life.</p>
+      <p><a href="https://www.getchronyx.com/">Visit Chronyx</a></p>
       <p>
         <img src="https://img.shields.io/badge/Focus-Finance%20Tracking-0f172a?style=flat-square" />
         <img src="https://img.shields.io/badge/Focus-Subscriptions%20%26%20Bills-1d4ed8?style=flat-square" />
@@ -81,7 +85,7 @@ I focus on products that do more than demo well. They reason, automate, organize
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>LLM Galaxy</h3>
       <p><strong>A map of the modern LLM landscape</strong></p>
       <p>A comparative platform covering <strong>closed-source models</strong>, <strong>open-source models</strong>, performance tradeoffs, ecosystem differences, and practical evaluation angles for builders, researchers, and decision-makers.</p>
@@ -89,6 +93,16 @@ I focus on products that do more than demo well. They reason, automate, organize
         <img src="https://img.shields.io/badge/Focus-LLM%20Comparison-0f172a?style=flat-square" />
         <img src="https://img.shields.io/badge/Focus-Open%20vs%20Closed%20Models-1d4ed8?style=flat-square" />
         <img src="https://img.shields.io/badge/Focus-AI%20Research%20Navigation-0ea5e9?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Pulse365</h3>
+      <p><strong>Mobile Personal Health OS</strong></p>
+      <p>A health tracking mobile app built as a personal health operating system for daily wellness management, nutrition tracking, habit visibility, and better health decisions over time.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Health%20Tracking-0f172a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-Nutrition%20Tracking-1d4ed8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-Personal%20Health%20OS-0ea5e9?style=flat-square" />
       </p>
     </td>
   </tr>
