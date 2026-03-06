@@ -4,7 +4,7 @@
 🌱 Principal Software Architect in Full Stack Developer with Cloud and DevOps <br><br>💬 Ask me about **.NET Core ,Microservices, Angular, Azure, AWS, DevOps , Machine Learning, Data Analytics & Data Science & Much More!!!
 **<br><br>📫 How to reach me Official.abhishekpanda@gmail.com
 <br><br>📝 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-<br><br>Please check out my Blog on : https://www.stackcraft.io/
+<br><br>Please check out my Blog on : https://www.abhishekpanda.com/
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
