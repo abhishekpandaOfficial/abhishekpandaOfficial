@@ -14,6 +14,7 @@
 <p align="center">
   <a href="https://x.com/Panda_Abhishek8"><img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/abhishekpandaofficial/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/official_abhishekpanda/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@abhishekpanda_official"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://github.com/abhishekpandaOfficial"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://medium.com/@official.abhishekpanda"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
@@ -200,6 +201,9 @@ If you are working on AI products, developer platforms, content systems, or clou
   </a>
   <a href="https://www.linkedin.com/in/abhishekpandaofficial/">
     <img src="https://img.shields.io/badge/LinkedIn-abhishekpandaofficial-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/official_abhishekpanda/">
+    <img src="https://img.shields.io/badge/Instagram-official__abhishekpanda-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@abhishekpanda_official">
     <img src="https://img.shields.io/badge/YouTube-abhishekpanda__official-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
