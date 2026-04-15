@@ -18,7 +18,7 @@
   <a href="https://www.youtube.com/@abhishekpanda_official"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://github.com/abhishekpandaOfficial"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://medium.com/@official.abhishekpanda"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://substack.com/@abhishekpanda08"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack" /></a>
+  <a href="https://substack.com/@pandaabhishek"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack" /></a>
   <a href="https://hashnode.com/@abhishekpanda"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
   <a href="https://writing.stackexchange.com/users/82639/abhishek-official"><img src="https://img.shields.io/badge/Stack%20Exchange-1E5397?style=flat-square&logo=stackexchange&logoColor=white" alt="Stack Exchange" /></a>
 </p>
