@@ -271,7 +271,7 @@ If you are working on AI products, developer platforms, content systems, or clou
     <img src="https://img.shields.io/badge/LinkedIn-abhishekpandaofficial-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/i_m_abhishekpanda/">
-    <img src="https://img.shields.io/badge/Instagram-official__abhishekpanda-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-i_m_abhishekpanda-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@abhishekpanda_official">
     <img src="https://img.shields.io/badge/YouTube-abhishekpanda__official-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
