@@ -47,7 +47,7 @@ I enjoy creating tools that feel useful in the real world: clearer workflows, sm
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://aeon-interview-studio.vercel.app/">
-  <img src="assets/AEON.svg" width="100" height="100" alt="AEON" style="border-radius: 20px; object-fit: cover;" />
+  <img src="assets/AEON.png" width="100" height="100" alt="AEON" style="border-radius: 20px; object-fit: cover;" />
 </a>
 
 </div>
