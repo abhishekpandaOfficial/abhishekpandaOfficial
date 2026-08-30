@@ -35,19 +35,19 @@ I enjoy creating tools that feel useful in the real world: clearer workflows, sm
 <div align="center">
 
 <a href="https://x-one-jade.vercel.app/">
-  <img src="assets/X1.png" width="100" alt="X1" style="border-radius: 20px;" />
+  <img src="assets/X1.png" width="100" height="100" alt="X1" style="border-radius: 20px; object-fit: cover;" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.abhishekpanda.com/">
-  <img src="assets/logo A.png" width="100" alt="Abhishek Panda" style="border-radius: 20px;" />
+  <img src="assets/logo A.png" width="100" height="100" alt="Abhishek Panda" style="border-radius: 20px; object-fit: cover;" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackedin.vercel.app">
-  <img src="assets/stacedinIcon.PNG" width="100" alt="StackedIN" style="border-radius: 20px;" />
+  <img src="assets/stacedinIcon.PNG" width="100" height="100" alt="StackedIN" style="border-radius: 20px; object-fit: cover;" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://aeon-interview-studio.vercel.app/">
-  <img src="assets/AEON.svg" width="100" alt="AEON" style="border-radius: 20px;" />
+  <img src="assets/AEON.svg" width="100" height="100" alt="AEON" style="border-radius: 20px; object-fit: cover;" />
 </a>
 
 </div>
