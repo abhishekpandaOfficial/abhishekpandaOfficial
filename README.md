@@ -59,7 +59,7 @@ I enjoy creating tools that feel useful in the real world: clearer workflows, sm
 <a href="https://github.com/abhishekpandaOfficial/abhishekpanda"><img src="https://img.shields.io/badge/abhishekpandaOfficial%2Fabhishekpanda-Profile%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Abhishek Panda repo" /></a>
 <a href="https://github.com/abhishekpandaOfficial/XOne"><img src="https://img.shields.io/badge/abhishekpandaOfficial%2FXOne-Product%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="XOne repo" /></a>
 <a href="https://github.com/abhishekpandaOfficial/StackedIN"><img src="https://img.shields.io/badge/abhishekpandaOfficial%2FStackedIN-Community%20Product-181717?style=flat-square&logo=github&logoColor=white" alt="StackedIN repo" /></a>
-<a href="https://github.com/abhishekpandaOfficial/aeon-interview-studio"><img src="https://img.shields.io/badge/abhishekpandaOfficial%2Faeon-interview-studio-Interview%20Studio-181717?style=flat-square&logo=github&logoColor=white" alt="AEON Interview Studio repo" /></a>
+<a href="https://github.com/abhishekpandaOfficial/aeon-interview-studio"><img src="https://img.shields.io/badge/abhishekpandaOfficial%2Faeon%2Dinterview%2Dstudio-Interview%20Studio-181717?style=flat-square&logo=github&logoColor=white" alt="AEON Interview Studio repo" /></a>
 
 </div>
 
