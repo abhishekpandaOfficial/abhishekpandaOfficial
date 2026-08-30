@@ -36,14 +36,14 @@ I enjoy creating tools that feel useful in the real world: clearer workflows, sm
   <tr>
     <td align="center" width="50%">
       <a href="https://x-one-jade.vercel.app/">
-        <img src="assets/xone-logo.svg" width="180" alt="XOne logo" />
+        <img src="assets/X1.png" width="160" alt="X1 logo" />
       </a>
       <br>
       <strong>XOne</strong>
     </td>
     <td align="center" width="50%">
       <a href="https://www.abhishekpanda.com/">
-        <img src="assets/abhishekpanda-logo.svg" width="180" alt="Abhishek Panda logo" />
+        <img src="assets/logo A.png" width="160" alt="Abhishek Panda logo" />
       </a>
       <br>
       <strong>Abhishek Panda</strong>
@@ -52,14 +52,14 @@ I enjoy creating tools that feel useful in the real world: clearer workflows, sm
   <tr>
     <td align="center" width="50%">
       <a href="https://stackedin.vercel.app">
-        <img src="assets/stackedin-logo.svg" width="180" alt="StackedIN logo" />
+        <img src="assets/stacedinIcon.PNG" width="160" alt="StackedIN logo" />
       </a>
       <br>
       <strong>StackedIN</strong>
     </td>
     <td align="center" width="50%">
       <a href="https://aeon-interview-studio.vercel.app/">
-        <img src="assets/aeon-logo.svg" width="180" alt="AEON Interview Studio logo" />
+        <img src="https://img.shields.io/badge/AEON-Interview%20Studio-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="AEON Interview Studio" />
       </a>
       <br>
       <strong>AEON Interview Studio</strong>
