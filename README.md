@@ -94,7 +94,6 @@ I enjoy creating tools that feel useful in the real world: clearer workflows, sm
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekpandaOfficial&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpandaOfficial&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
