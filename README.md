@@ -32,40 +32,27 @@ I enjoy creating tools that feel useful in the real world: clearer workflows, sm
 
 ### Live Products
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://x-one-jade.vercel.app/">
-        <img src="assets/X1.png" width="160" alt="X1 logo" />
-      </a>
-      <br>
-      <strong>XOne</strong>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.abhishekpanda.com/">
-        <img src="assets/logo A.png" width="160" alt="Abhishek Panda logo" />
-      </a>
-      <br>
-      <strong>Abhishek Panda</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://stackedin.vercel.app">
-        <img src="assets/stacedinIcon.PNG" width="160" alt="StackedIN logo" />
-      </a>
-      <br>
-      <strong>StackedIN</strong>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://aeon-interview-studio.vercel.app/">
-        <img src="https://img.shields.io/badge/AEON-Interview%20Studio-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="AEON Interview Studio" />
-      </a>
-      <br>
-      <strong>AEON Interview Studio</strong>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://x-one-jade.vercel.app/">
+  <img src="assets/X1.png" width="100" alt="X1" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.abhishekpanda.com/">
+  <img src="assets/logo A.png" width="100" alt="Abhishek Panda" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://stackedin.vercel.app">
+  <img src="assets/stacedinIcon.PNG" width="100" alt="StackedIN" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://aeon-interview-studio.vercel.app/">
+  <img src="assets/AEON.svg" width="100" alt="AEON Interview Studio" />
+</a>
+
+**XOne** · **Abhishek Panda** · **StackedIN** · **AEON Interview Studio**
+
+</div>
 
 ### GitHub Repositories
 
