@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="StackedIN logo">
+  <defs>
+    <linearGradient id="stackedBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b1b1b"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </linearGradient>
+  </defs>
+  <rect x="36" y="36" width="440" height="440" rx="120" fill="url(#stackedBg)"/>
+  <g transform="translate(20 0)">
+    <rect x="86" y="250" width="330" height="110" rx="24" fill="#f4f4f4" transform="skewX(-18)" opacity="0.72"/>
+    <rect x="70" y="218" width="330" height="110" rx="24" fill="#f4f4f4" transform="skewX(-18)" opacity="0.88"/>
+    <rect x="54" y="186" width="330" height="110" rx="24" fill="#f4f4f4" transform="skewX(-18)"/>
+    <g fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-weight="900" text-anchor="middle">
+      <text x="233" y="270" font-size="176" transform="skewX(-18)">IN</text>
+    </g>
+  </g>
+</svg>
